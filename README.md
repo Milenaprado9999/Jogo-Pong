@@ -1,4 +1,4 @@
-<h1 align="center"> Jogo-Pong - O clássico jogo de tênis de mesa em JavaScript </h1>
+<h1> Jogo-Pong - O clássico jogo de tênis de mesa em JavaScript </h1>
 
 
 >   **Pong é um jogo eletrônico com temática de tênis de mesa, desenvolvido pela Atari e lançado originalmente em 1972.
