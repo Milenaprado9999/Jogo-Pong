@@ -10,11 +10,7 @@
 
 
 
-<img src="https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/95f2ffee-b5f1-4cb5-96e3-3f0076a2af10" left="200px">
-
-![Jogo pong funcionando.](https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/95f2ffee-b5f1-4cb5-96e3-3f0076a2af10)
-
-
+<img src="https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/95f2ffee-b5f1-4cb5-96e3-3f0076a2af10" position="fixed" left="250px">
 
   
 ## Como Jogar:
