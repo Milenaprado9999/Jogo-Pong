@@ -9,7 +9,7 @@ para acertar a esfera (bola) e mandá-la para o outro lado.**
 
 
 <div align="center">
- ![Imagem do Jogo Pong funcionando.](https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/6e8c17eb-0f05-47f6-8d0b-8f36e6ec148f)
+ ![Jogo pong Funcionando](https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/b4a5d74b-381d-4255-abd7-2f7204cf25b7)
 </div>
 
 ** - Como Jogar:**
