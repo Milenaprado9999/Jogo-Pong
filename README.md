@@ -12,7 +12,10 @@
 
 <img src="https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/95f2ffee-b5f1-4cb5-96e3-3f0076a2af10">
 
-  
+
+ ### `` 🔳 STATUS DO PROJETO: CONCLUIDO.``
+
+ 
 ## Como Jogar:
 > Use a raquete virtual para rebater a bolinha e pontuar mais que o adversário. 
  O primeiro jogador devera usar as teclas Up e Down para movimentar sua raquete
@@ -24,5 +27,5 @@
 - ``Java Script``
 - ``Editor P5.JS``
 
-### ``STATUS DO PROJETO: CONCLUIDO.``
+
 
