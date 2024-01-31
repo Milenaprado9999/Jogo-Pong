@@ -9,7 +9,11 @@
  para acertar a esfera (bola) e mandá-la para o outro lado.**
 
 
-	![Captura de tela 2024-01-31 1](https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/9028b008-e63f-468d-add2-a427cf971e19)
+
+
+	![Jogo pong funcionando.](https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/95f2ffee-b5f1-4cb5-96e3-3f0076a2af10)
+
+
 
   
 ## Como Jogar:
@@ -18,9 +22,10 @@
  para cima e para baixo, e seu oponente as teclas S e W.
 
 
+
 ## ✔️ Tecnologias Utilizadas
 - ``Java Script``
 - ``Editor P5.JS``
 
-## STATUS DO PROJETO: ``CONCLUIDO.``
+### STATUS DO PROJETO: CONCLUIDO.
 
