@@ -29,5 +29,6 @@
 
 ## Desenvolvedora
 <img src="https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/1ad6f12f-d1db-4c1a-89a4-a03f79abfc6d)" width=115>
-> ``Milena Do Prado Nery``
+
+``Milena```
 
