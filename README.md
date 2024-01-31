@@ -8,11 +8,10 @@ contra o computador ou outro jogador que controlam uma segunda raquete no lado o
 para acertar a esfera (bola) e mandá-la para o outro lado.**
 
 
-<div align="center">
  ![Jogo pong Funcionando](https://github.com/Milenaprado9999/Jogo-Pong/assets/50625429/b4a5d74b-381d-4255-abd7-2f7204cf25b7)
-</div>
 
-** - Como Jogar:**
+
+* Como Jogar:
 > Use a raquete virtual para rebater a bolinha e pontuar mais que o adversário. 
  O primeiro jogador devera usar as teclas Up e Down para movimentar sua raquete
  para cima e para baixo, e seu oponente as teclas S e W. 
